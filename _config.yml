@@ -1,7 +1,7 @@
 markdown: kramdown
 pygments: true
 safe: false
-#permalink: /posts/:title.html
+permalink: blog/posts/:year-:month-:day/:title.html
 baseurl:/blog
 exclude:
   - README.md
