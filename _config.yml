@@ -6,7 +6,7 @@ exclude:
   - README.md
 
 name: Pear & Orange
-host: pearoranger.com
+host: dongcheng.github.io/blog
 desc: The Blog For Li & Cheng
 
 custom:
