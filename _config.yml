@@ -1,12 +1,12 @@
 markdown: kramdown
 pygments: true
 safe: false
-permalink: /posts/:title.html
+permalink: /blog/posts/:title.html
 exclude:
   - README.md
 
 name: Pear & Orange
-host: dongcheng.github.io/blog
+host: dongcheng.github.io
 desc: The Blog For Li & Cheng
 
 custom:
